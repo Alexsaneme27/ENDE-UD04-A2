@@ -1,5 +1,5 @@
 package figuras;
-//pongo un comentario desde el IDE
+//pongo un comentario desde el IDE en master
 public class Punto {
     private double x;
     private double y;
