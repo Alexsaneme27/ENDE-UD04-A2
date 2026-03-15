@@ -37,4 +37,4 @@ Durante el desarrollo se gestionaron y documentaron los siguientes desafíos té
 - **Configuración IDE:** Ajuste de las rutas de proyecto en NetBeans para evitar conflictos con la carpeta `.git`.
 
 ---
-*Realizado por Alejandro - Estudiante de 1º Grado Superior DAM/DAW.*
+*Realizado por Alejandro San Emeterio - Estudiante de 1º Grado Superior DAM.*
