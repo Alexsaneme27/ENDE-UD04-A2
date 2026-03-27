@@ -1,4 +1,5 @@
 package figuras;
+// pongo un comentario en el figura.java del develop
 import java.awt.Color;
 public abstract class Figura{
     private Punto centro;
